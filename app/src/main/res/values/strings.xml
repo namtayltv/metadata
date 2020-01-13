@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoMetaData</string>
+
+    <string name="error_message">Metadata could not be retrieved</string>
+</resources>
